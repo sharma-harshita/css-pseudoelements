@@ -1,0 +1,17 @@
+p::first-letter{
+    color: red;
+    font-size: 50px;
+}
+
+p::first-line{
+    color: blueviolet;
+}
+
+p::selection{
+    color: red;
+    background-color: yellow;
+}
+
+::marker{
+    color: blue;
+}
